@@ -5,7 +5,7 @@ from opencage.geocoder import OpenCageGeocode
 import folium
 
 # Your OpenCage API key
-API_KEY = "1039d23c52a844dc92477f7c11d246d4"
+API_KEY = "insert API key here" #create a opencage geocode account and generate API key
 
 def track_phone_number(number):
     try:
